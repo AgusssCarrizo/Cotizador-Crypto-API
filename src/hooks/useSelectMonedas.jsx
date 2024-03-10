@@ -7,7 +7,7 @@ const Label = styled.label`
    font-size: 24px;
    font-weight: 700;
    color: #fff;
-   margin: 15px 0;
+   margin: 16px 0;
 `;
 const Select = styled.select`
    width: 100%;
